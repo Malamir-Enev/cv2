@@ -1,0 +1,140 @@
+/*****************************ELEMENT TAGS**************************/
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: Arial Narrow, Arial, sans-serif;
+  font-family: 'Roboto Slab', serif;
+  background-color: #FFF5FD;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 45px;
+  margin-top: 20px;
+  margin-bottom: 0;
+  font-family: 'Cedarville Cursive', cursive;
+
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Roboto Slab', serif;
+  margin-bottom: 50px;
+}
+
+h3 {
+  font-family: 'Archivo Narrow', sans-serif;
+  color: #11999E;
+}
+hr {
+  border: dotted #C56824 7px;
+  border-bottom: none;
+  width: 5%;
+  margin: 150px auto;
+
+}
+
+p {
+  color: #212121;
+  line-height: 2;
+}
+
+/****************************CLASS TAGS***************************/
+.top-container {
+  background-color: #DBE6FD;
+  position: relative;
+  padding-top: 150px;
+
+}
+
+.bottom-container {
+  background-color: #DBE6FD;
+  padding: 80px 0 30px;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 200px;
+  top: 100px;
+
+}
+
+.cloud2 {
+  position: absolute;
+  top: 350px;
+  left: 200px;
+}
+
+.first-p {
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 20px;
+
+}
+
+.second-p{
+  margin: auto;
+  width: 50%;
+}
+
+.last-p {
+  font-size: 10px;
+  color: #022E57;
+  padding-top: 25px;
+  font-family: Arial Narrow, Arial, sans-serif;
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+
+}
+
+.img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img-2 {
+  width: 35%;
+  float: right;
+  margin-left: 30px;
+}
+
+.my-cv-photo {
+  width: 12%;
+
+}
+
+.profile {
+  margin: 150px auto 150px;
+
+}
+
+.mountain {
+  width: 37%;
+}
+
+
+.footer-link {
+  font-size: 1.5rem;
+  color: #11999E;
+  margin: 30px;
+  text-align: center;
+  font-family: Arial Narrow, Arial, sans-serif;
+  text-decoration: none;
+
+}
+
+.footer-link:hover {
+  color: #50CB93;
+}
+
+.test {
+  position: relative;
+  bottom: 30px;
+
+}
